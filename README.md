@@ -32,3 +32,23 @@ This project models a Coffee Shop using Python and object-oriented programming. 
 
 ---
 
+
+---
+
+## How to Use
+
+1. Activate the virtual environment:
+
+```bash
+pipenv shell
+
+python debug.py
+
+pytest
+
+
+# Clone the repository
+git clone https://github.com/josephine599/coffee_shop
+cd coffee_shop
+
+
